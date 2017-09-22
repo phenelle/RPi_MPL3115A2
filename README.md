@@ -5,7 +5,7 @@ A simple port of the Adafruit MPL3115A2 barometric/altitude pressure sensor to t
 
 This code is based on both https://github.com/ControlEverythingCommunity/MPL3115A2/ and https://raw.githubusercontent.com/adafruit/Adafruit_MPL3115A2_Library
 
-Note: The code is not complete. Feel free to use, modify, and pull update
+**Note: The code is not complete. Feel free to use, modify, and pull update**
 
 Example
 ==
